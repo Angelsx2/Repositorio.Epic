@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Funcion2
+comment1.params=numero
+comment1.target=void\ mostrar(int)
+comment10.params=m
+comment10.target=int[][]\ M(int[][])
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=n1\ n2
+comment2.target=int\ suma(int,\ int)
+comment3.params=n1
+comment3.target=int\ po_ne(int)
+comment4.params=n1\ v
+comment4.target=void\ pa_im(int,\ int[])
+comment5.params=v\ n1
+comment5.target=void\ pa_imv(int[],\ int)
+comment6.params=m\ n1
+comment6.target=void\ opem(int[][],\ int)
+comment7.params=n1
+comment7.target=void\ fact(int)
+comment8.params=n1\ n2\ n3
+comment8.target=int\ not(int,\ int,\ int)
+comment9.params=v
+comment9.target=int[]\ v(int[])
+numComments=12
